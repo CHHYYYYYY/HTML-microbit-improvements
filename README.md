@@ -13,6 +13,6 @@ h1 {
 
 p {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 40px;
 }
 </style>
